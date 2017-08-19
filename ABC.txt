@@ -1,1 +1,10 @@
-Hello World!!!
+#include<iostream.h>
+#include<conio.h>
+void main ()
+{
+int a, b;
+cin>>a>>b;
+int c = a+b;
+cout<<"Sum = C";
+getch();
+}
